@@ -1,0 +1,11 @@
+.show-pane {
+    height: 500px;
+    max-height: 500px;
+    overflow: scroll;
+     overflow-x: hidden;
+}
+
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
